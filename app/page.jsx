@@ -2,8 +2,8 @@ import React from 'react'
 
 const HomePage = () => {
   return (
-    <div>
-      <h1>HomePage</h1>
+    <div className='bg-green-500'>
+      <h1 className='text-6xl'>HomePage</h1>
       <span>HomePage</span>
     </div>
   )
